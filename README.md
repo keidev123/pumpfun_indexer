@@ -17,9 +17,7 @@ cargo run -- --endpoint https://grpc.ny.shyft.to --x-token<gRpc Token>
 ## Notes
  
   
-
-gRPC client examples :https://github.com/Shyft-to/solana-defi
-Blogs : blogs.shyft.to
-Learn about shyft: https://shyft.to/
-Discord: https://discord.gg/6bSmYuDa
+### 👤 Author
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)  
 
